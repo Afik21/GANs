@@ -19,14 +19,14 @@ GANs can be separate in three parts as follow :
 
 # About the Work
 
-This work has been realised by 5 peoples, all student at *African Master in Machine Intelligence*, Senegal; In context of Fondations of Deep Learning course.
+This work has been realised by 5 peoples, all student at *African Master in Machine Intelligence* (AMMI), Senegal; In context of Fondations of Deep Learning course.
 
 Those students are :
 
-* Amisi Fikirini
-* Elie Mulamba
-* Salomon Muhirwa
-* Lionel Nanguep
-* Omer Elhussien
+* Amisi Fikirini (afikirini@aimsammi.org)
+* Elie Mulamba (emulamba@aimsammi.org)
+* Salomon Muhirwa (smuhirwa@aimsammi.org)
+* Lionel Nanguep (lnkomen@aimsammi.org)
+* Omer Elhussien (oelhussien@aimsammi.org)
 
 Attached, the files about proofs, implementation and presentation.
